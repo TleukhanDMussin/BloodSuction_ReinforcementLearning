@@ -3,6 +3,9 @@
 
 This project demonstrates the integration of a 3D blood suction simulator with a reinforcement learning (RL) agent using Pybind11, Gym, and Stable Baselines3.
 
+## Video Demonstration
+![Video Preview](./assets/Challenge_Video.gif)
+
 ## Directory Structure
 ```
 BloodSuctionRL/
