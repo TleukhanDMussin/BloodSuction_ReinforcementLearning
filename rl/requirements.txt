@@ -1,0 +1,6 @@
+
+gym
+numpy
+stable-baselines3
+matplotlib
+pybind11
